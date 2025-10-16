@@ -35,7 +35,7 @@ Run all cells to:
 4)Save the trained model
 
 
-**Screenshots**
+### Screenshots 
 
 <img width="439" height="449" alt="image" src="https://github.com/user-attachments/assets/280333b2-c435-4b23-84e7-caa6191fc9ce" />
 
