@@ -20,8 +20,8 @@ MNIST-Classification/
 ### Steps to Run the Project
 
 Clone the repository:
-git clone https://github.com/yourusername/mnist-classification.git
-cd mnist-classification
+git clone https://github.com/Prachichi7/Image_classification_using_CNN.git
+cd Image_classification_using_CNN
 
 Install dependencies:
 pip install -r requirements.txt
