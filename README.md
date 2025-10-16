@@ -12,9 +12,6 @@ The goal of this project is to build a neural network model to classify images i
 
 *Project Structure*
 MNIST-Classification/
-├─ notebooks/
-   └─ mnist_classification.ipynb
-├─ saved_models/
-   └─ my_model.h5
-├─ README.md
-  └─ requirements.txt  
+├─ notebooks─ mnist_classification.ipynb
+├─ saved_models- my_model.h5
+├─ README.md─ requirements.txt  
