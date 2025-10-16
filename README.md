@@ -11,6 +11,7 @@ The goal of this project is to build a neural network model to classify images i
 - **Jupyter Notebook / Google Colab** – for project development and experimentation
 
 *Project Structure*
+
 MNIST-Classification/
 ├─ notebooks─ mnist_classification.ipynb
 ├─ saved_models- my_model.h5
